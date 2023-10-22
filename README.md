@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @Entity-7
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning AI
-- 
+  
 "Predicting the future is not magic, it is artificial intelligence"
 
 <!---
